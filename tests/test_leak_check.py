@@ -47,7 +47,7 @@ MUST_NOT_CATCH = [
     "arn:aws:es:us-east-1:111122223333:domain/acme/*",
     "RecipientEmail=ops@example.com",
     "noreply@example.org",
-    "https://github.com/jnet-platform-factory/aws-daily-monitoring-report",
+    "https://github.com/JNet-Platform-Foundry/aws-daily-monitoring-report",
     "SemanticVersion: 1.0.0",
     "cron(0 10 * * ? *)",
     "10.0.0.0/16",
