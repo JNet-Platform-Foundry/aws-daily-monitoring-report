@@ -108,7 +108,7 @@ any other parameters through `PARAMS="AccountName=Production"`. The stack needs
 ### Through a CloudFormation service role
 
 If your CI may only drive CloudFormation and passes a service role for the resources —
-the split [aws-account-bootstrap](https://github.com/jnet-platform-factory/aws-account-bootstrap)
+the split [aws-account-bootstrap](https://github.com/JNet-Platform-Foundry/aws-account-bootstrap)
 sets up with `app-deploy-role` and `app-cfn-exec-role` — add the role:
 
 ```bash

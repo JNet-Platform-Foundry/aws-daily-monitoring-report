@@ -20,10 +20,10 @@ Metadata:
     LicenseUrl: LICENSE.txt
     ReadmeUrl: README.md
     Labels: ["monitoring", "cost", "cloudwatch", "ses", "report", "serverless"]
-    HomePageUrl: https://github.com/jnet-platform-factory/aws-daily-monitoring-report
+    HomePageUrl: https://github.com/JNet-Platform-Foundry/aws-daily-monitoring-report
     # A published SemanticVersion is immutable. Bump before every publish.
     SemanticVersion: 1.0.0
-    SourceCodeUrl: https://github.com/jnet-platform-factory/aws-daily-monitoring-report
+    SourceCodeUrl: https://github.com/JNet-Platform-Foundry/aws-daily-monitoring-report
 
 Parameters:
   RecipientEmail:
